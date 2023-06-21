@@ -1,5 +1,5 @@
 # Guessing-Game-with-Python
-mport random
+Import random
 
 def guess_number():
     secret_number = random.randint(1, 100)
